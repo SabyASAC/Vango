@@ -81,7 +81,7 @@ The menu includes various south indian dishes such as :
   
     <div class="w3-row w3-center w3-card w3-padding">
       <a href="javascript:void(0)" onclick="openMenu(event, 'Dosa's');" id="myLink">
-        <div class="w3-col s6 tablink">Dhosa's</div>
+        <div class="w3-col s6 tablink">Dosa's</div>
       </a>
       <a href="javascript:void(0)" onclick="openMenu(event, 'Utthapams');">
         <div class="w3-col s6 tablink">Utthapams</div>
